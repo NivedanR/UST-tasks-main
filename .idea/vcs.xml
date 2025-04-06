@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bankvault" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/expensetracker1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-docker-flightsdata-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/training_management" vcs="Git" />
+  </component>
+</project>

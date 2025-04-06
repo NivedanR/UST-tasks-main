@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bankvault/pom.xml" />
+        <option value="$PROJECT_DIR$/expensetracker1/pom.xml" />
+        <option value="$PROJECT_DIR$/training_management/vendorservice/pom.xml" />
+        <option value="$PROJECT_DIR$/training_management/trainerservice/pom.xml" />
+        <option value="$PROJECT_DIR$/training_management/trainingservice/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-webclient-main/Airline/Airline/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-webclient-main/Cloud-config/Cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-webclient-main/Passangerinfo/Passangerinfo/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-webclient-main/Flight-services/Flight-services/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-webclient-main/AirlinesServices/AirlinesServices/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-webclient-main/microservice-webclient-main/Airline/Airline/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-webclient-main/microservice-webclient-main/Cloud-config/Cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-webclient-main/microservice-webclient-main/Passangerinfo/Passangerinfo/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-webclient-main/microservice-webclient-main/Flight-services/Flight-services/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-webclient-main/microservice-webclient-main/AirlinesServices/AirlinesServices/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-feginclient-main/ApiGateway/ApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-feginclient-main/Eureka-server/Eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-feginclient-main/Company-service/Company-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-feginclient-main/Project-service/Project-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-feginclient-main/cloud-config-server/cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-feginclient-main/microservices-feginclient-main/ApiGateway/ApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-feginclient-main/microservices-feginclient-main/Eureka-server/Eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-feginclient-main/microservices-feginclient-main/Company-service/Company-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-feginclient-main/microservices-feginclient-main/Project-service/Project-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-feginclient-main/microservices-feginclient-main/cloud-config-server/cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-docker-flightsdata-main/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot--ext-api-resttemplete-main/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security-forgotpassword-main/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

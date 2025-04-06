@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bankvault/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expensetracker1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-webclient-main/Airline/Airline/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-webclient-main/AirlinesServices/AirlinesServices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-webclient-main/Cloud-config/Cloud-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-webclient-main/Flight-services/Flight-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-webclient-main/Passangerinfo/Passangerinfo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-webclient-main/microservice-webclient-main/Airline/Airline/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-webclient-main/microservice-webclient-main/AirlinesServices/AirlinesServices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-webclient-main/microservice-webclient-main/Cloud-config/Cloud-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-webclient-main/microservice-webclient-main/Flight-services/Flight-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-webclient-main/microservice-webclient-main/Passangerinfo/Passangerinfo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-feginclient-main/ApiGateway/ApiGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-feginclient-main/Company-service/Company-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-feginclient-main/Eureka-server/Eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-feginclient-main/Project-service/Project-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-feginclient-main/cloud-config-server/cloud-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-feginclient-main/microservices-feginclient-main/ApiGateway/ApiGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-feginclient-main/microservices-feginclient-main/Company-service/Company-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-feginclient-main/microservices-feginclient-main/Eureka-server/Eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-feginclient-main/microservices-feginclient-main/Project-service/Project-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-feginclient-main/microservices-feginclient-main/cloud-config-server/cloud-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot--ext-api-resttemplete-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-docker-flightsdata-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-security-forgotpassword-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/training_management/trainerservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/training_management/trainingservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/training_management/vendorservice/src/main/java" charset="UTF-8" />
+  </component>
+</project>

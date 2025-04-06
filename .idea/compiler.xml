@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Cloud-config (1)" />
+        <module name="Passangerinfo (1)" />
+        <module name="cloud-config-server" />
+        <module name="Airline" />
+        <module name="Flight-services" />
+        <module name="AirlinesServices" />
+        <module name="Flight-services (1)" />
+        <module name="ApiGateway" />
+        <module name="Eureka-server" />
+        <module name="Airline (1)" />
+        <module name="ApiGateway (1)" />
+        <module name="AirlinesServices (1)" />
+        <module name="Eureka-server (1)" />
+        <module name="Passangerinfo" />
+        <module name="cloud-config-server (1)" />
+        <module name="Cloud-config" />
+      </profile>
+      <profile name="Annotation profile for Security-app" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="trainingservice" />
+        <module name="Security-app" />
+        <module name="bankvault" />
+        <module name="Company-service" />
+        <module name="Springboot-docker-app" />
+        <module name="Project-service (1)" />
+        <module name="vendorservice" />
+        <module name="expensetracker1" />
+        <module name="trainerservice" />
+        <module name="Flight-Service" />
+        <module name="Company-service (1)" />
+        <module name="Project-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Airline" options="-parameters" />
+      <module name="Airline (1)" options="-parameters" />
+      <module name="AirlinesServices" options="-parameters" />
+      <module name="AirlinesServices (1)" options="-parameters" />
+      <module name="ApiGateway" options="-parameters" />
+      <module name="ApiGateway (1)" options="-parameters" />
+      <module name="Cloud-config" options="-parameters" />
+      <module name="Cloud-config (1)" options="-parameters" />
+      <module name="Company-service" options="-parameters" />
+      <module name="Company-service (1)" options="-parameters" />
+      <module name="Eureka-server" options="-parameters" />
+      <module name="Eureka-server (1)" options="-parameters" />
+      <module name="Flight-Service" options="-parameters" />
+      <module name="Flight-services" options="-parameters" />
+      <module name="Flight-services (1)" options="-parameters" />
+      <module name="Passangerinfo" options="-parameters" />
+      <module name="Passangerinfo (1)" options="-parameters" />
+      <module name="Project-service" options="-parameters" />
+      <module name="Project-service (1)" options="-parameters" />
+      <module name="Security-app" options="-parameters" />
+      <module name="Springboot-docker-app" options="-parameters" />
+      <module name="bankvault" options="-parameters" />
+      <module name="cloud-config-server" options="-parameters" />
+      <module name="cloud-config-server (1)" options="-parameters" />
+      <module name="expensetracker1" options="-parameters" />
+      <module name="trainerservice" options="-parameters" />
+      <module name="trainingservice" options="-parameters" />
+      <module name="vendorservice" options="-parameters" />
+    </option>
+  </component>
+</project>
